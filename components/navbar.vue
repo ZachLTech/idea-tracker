@@ -4,7 +4,6 @@ const user = useUserSession();
 
 <template>
   <div>
- <!--- Navbar -->
     <nav class="main-header u-padding-inline-end-0">
       <h3 class="u-stretch eyebrow-heading-1">Idea Tracker</h3>
       <!-- Email and logout button if logged in user -->
